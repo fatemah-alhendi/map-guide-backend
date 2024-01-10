@@ -1,0 +1,135 @@
+"place","pop2024","growthRate","area","country","cca3","cca2","ccn3","region","subregion","unMember","officialName","landAreaKm","density","densityMi","borders","Rank","crimeRateByCountry_crimeIndex"
+356,1441719852,0.00916,3287590,"India","IND","IN",356,"Asia","Southern Asia, South Central Asia",true,"Republic of India",2973190,484.9067,1255.9084,"AFG, BGD, BTN, MMR, CHN, NPL, PAK, LKA",1,44.43
+156,1425178782,-0.00035,9706961,"China","CHN","CN",156,"Asia","Eastern Asia",true,"People's Republic of China",9424702.9,151.2174,391.653,"AFG, BTN, MMR, HKG, IND, KAZ, PRK, KGZ, LAO, MAC, MNG, PAK, RUS, TJK, VNM",2,30.14
+840,341814420,0.00535,9372610,"United States","USA","US",840,"North America","Northern America",true,"United States of America",9147420,37.3673,96.7813,"CAN, MEX",3,47.81
+360,279798049,0.00816,1904569,"Indonesia","IDN","ID",360,"Asia","South-Eastern Asia",true,"Republic of Indonesia",1877519,149.0254,385.9758,"TLS, MYS, PNG",4,45.93
+586,245209815,0.01964,881912,"Pakistan","PAK","PK",586,"Asia","Southern Asia, South Central Asia",true,"Islamic Republic of Pakistan",770880,318.0908,823.8551,"AFG, CHN, IND, IRN",5,42.51
+566,229152217,0.02389,923768,"Nigeria","NGA","NG",566,"Africa","Western Africa, Sub-Saharan Africa",true,"Federal Republic of Nigeria",910770,251.6027,651.6511,"BEN, CMR, TCD, NER",6,64.06
+76,217637297,0.00561,8515767,"Brazil","BRA","BR",76,"South America","South America, Latin America",true,"Federative Republic of Brazil",8358140,26.039,67.4409,"ARG, BOL, COL, GUF, GUY, PRY, PER, SUR, URY, VEN",7,67.49
+50,174701211,0.0101,147570,"Bangladesh","BGD","BD",50,"Asia","Southern Asia, South Central Asia",true,"People's Republic of Bangladesh",130170,1342.1004,3476.0401,"MMR, IND",8,63.9
+643,143957079,-0.00337,17098242,"Russia","RUS","RU",643,"Europe","Eastern Europe",true,"Russian Federation",16376870,8.7903,22.7668,"AZE, BLR, CHN, EST, FIN, GEO, KAZ, PRK, LVA, LTU, MNG, NOR, POL, UKR",9,39.99
+231,129719719,0.02523,1104300,"Ethiopia","ETH","ET",231,"Africa","Eastern Africa, Sub-Saharan Africa",true,"Federal Democratic Republic of Ethiopia",1128571.3,114.9415,297.6986,"DJI, ERI, KEN, SOM, SSD, SDN",10,49.3
+484,129388467,0.00726,1964375,"Mexico","MEX","MX",484,"North America","Central America, Latin America",true,"United Mexican States",1943950,66.5596,172.3893,"BLZ, GTM, USA",11,54.19
+392,122631432,-0.00538,377930,"Japan","JPN","JP",392,"Asia","Eastern Asia",true,"Japan",364500,336.4374,871.3729,"",12,22.19
+608,119106224,0.01508,342353,"Philippines","PHL","PH",608,"Asia","South-Eastern Asia",true,"Republic of the Philippines",298170,399.4574,1034.5948,"",13,42.46
+818,114484252,0.01568,1002450,"Egypt","EGY","EG",818,"Africa","Northern Africa, The Middle East",true,"Arab Republic of Egypt",995450,115.0075,297.8695,"ISR, LBY, SDN",14,46.83
+704,99497680,0.00646,331212,"Vietnam","VNM","VN",704,"Asia","South-Eastern Asia",true,"Socialist Republic of Vietnam",313429,317.4489,822.1926,"KHM, CHN, LAO",16,46.19
+364,89809781,0.00714,1648195,"Iran","IRN","IR",364,"Asia","Southern Asia, The Middle East",true,"Islamic Republic of Iran",1622500,55.3527,143.3635,"AFG, ARM, AZE, IRQ, PAK, TUR, TKM",17,49.38
+792,86260417,0.00518,783562,"Turkey","TUR","TR",792,"Asia","Western Asia, The Middle East",true,"Republic of Turkey",783562,110.0875,285.1267,"ARM, AZE, BGR, GEO, GRC, IRN, IRQ, SYR",18,39.62
+276,83252474,-0.00051,357114,"Germany","DEU","DE",276,"Europe","Western Europe",true,"Federal Republic of Germany",349390,238.2795,617.1439,"AUT, BEL, CZE, DNK, FRA, LUX, NLD, POL, CHE",19,35.79
+764,71885799,0.00118,513120,"Thailand","THA","TH",764,"Asia","South-Eastern Asia",true,"Kingdom of Thailand",510890,140.707,364.4311,"MMR, KHM, LAO, MYS",20,39.35
+834,69419073,0.02938,945087,"Tanzania","TZA","TZ",834,"Africa","Eastern Africa, Sub-Saharan Africa",true,"United Republic of Tanzania",885800,78.3688,202.9752,"BDI, COD, KEN, MWI, MOZ, RWA, UGA, ZMB",21,56
+826,67961439,0.00332,242900,"United Kingdom","GBR","GB",826,"Europe","Northern Europe",true,"United Kingdom of Great Britain and Northern Ireland",241930,280.9136,727.5663,"IRL",22,46.07
+250,64881830,0.00193,551695,"France","FRA","FR",250,"Europe","Western Europe",true,"French Republic",547557,118.4933,306.8976,"AND, BEL, DEU, ITA, LUX, MCO, ESP, CHE",23,51.99
+710,61020221,0.01003,1221037,"South Africa","ZAF","ZA",710,"Africa","Southern Africa, Sub-Saharan Africa",true,"Republic of South Africa",1213090,50.3015,130.2808,"BWA, LSO, MOZ, NAM, SWZ, ZWE",24,76.86
+380,58697744,-0.00294,301336,"Italy","ITA","IT",380,"Europe","Southern Europe",true,"Italian Republic",295717,198.493,514.0968,"AUT, FRA, SMR, SVN, CHE, VAT",25,44.85
+404,56203030,0.02001,580367,"Kenya","KEN","KE",404,"Africa","Eastern Africa, Sub-Saharan Africa",true,"Republic of Kenya",569140,98.7508,255.7646,"ETH, SOM, SSD, TZA, UGA",26,60.14
+104,54964694,0.00709,676578,"Myanmar","MMR","MM",104,"Asia","South-Eastern Asia",true,"Republic of the Union of Myanmar",652670,84.2151,218.1172,"BGD, CHN, IND, LAO, THA",27,46.51
+170,52340774,0.00491,1141748,"Colombia","COL","CO",170,"South America","South America, Latin America",true,"Republic of Colombia",1109500,47.1751,122.1835,"BRA, ECU, PAN, PER, VEN",28,56.87
+410,51741963,-0.00081,100210,"South Korea","KOR","KR",410,"Asia","Eastern Asia",true,"Republic of Korea",97600,530.1431,1373.0705,"PRK",29,26.68
+800,49924252,0.02762,241550,"Uganda","UGA","UG",800,"Africa","Eastern Africa, Sub-Saharan Africa",true,"Republic of Uganda",200520,248.9739,644.8425,"COD, KEN, RWA, SSD, TZA",30,56.12
+729,49358228,0.02597,1886068,"Sudan","SDN","SD",729,"Africa","Northern Africa",true,"Republic of the Sudan",1868000,26.423,68.4357,"CAF, TCD, EGY, ERI, ETH, LBY, SSD",31,42.34
+724,47473373,-0.00097,505992,"Spain","ESP","ES",724,"Europe","Southern Europe",true,"Kingdom of Spain",499556.6,95.031,246.1303,"AND, FRA, GIB, PRT, MAR",32,33.32
+368,46523657,0.0224,438317,"Iraq","IRQ","IQ",368,"Asia","Western Asia, The Middle East",true,"Republic of Iraq",434128,107.1658,277.5593,"IRN, JOR, KWT, SAU, SYR, TUR",33,48.42
+12,46278751,0.01474,2381741,"Algeria","DZA","DZ",12,"Africa","Northern Africa",true,"People's Democratic Republic of Algeria",2381741,19.4306,50.3254,"TUN, LBY, NER, ESH, MRT, MLI, MAR",34,52.03
+32,46057866,0.0062,2780400,"Argentina","ARG","AR",32,"South America","South America, Latin America",true,"Argentine Republic",2736690,16.8298,43.5891,"BOL, BRA, CHL, PRY, URY",35,63.82
+4,43372950,0.02683,652230,"Afghanistan","AFG","AF",4,"Asia","South Central Asia, Southern Asia",true,"Islamic Republic of Afghanistan",652230,66.4995,172.2336,"IRN, PAK, TKM, UZB, TJK, CHN",36,76.31
+616,40221726,-0.01961,312679,"Poland","POL","PL",616,"Europe","Eastern Europe",true,"Republic of Poland",306130,131.3877,340.2942,"BLR, CZE, DEU, LTU, RUS, SVK, UKR",37,30.5
+124,39107046,0.0084,9984670,"Canada","CAN","CA",124,"North America","Northern America",true,"Canada",8965590,4.3619,11.2973,"USA",38,41.89
+504,38211459,0.00982,446550,"Morocco","MAR","MA",504,"Africa","Northern Africa",true,"Kingdom of Morocco",446300,85.6183,221.7515,"DZA, ESH, ESP",39,48.66
+804,37937821,0.03247,603500,"Ukraine","UKR","UA",804,"Europe","Eastern Europe",true,"Ukraine",579400,65.4778,169.5874,"BLR, HUN, MDA, POL, ROU, RUS, SVK",40,47.42
+24,37804634,0.03054,1246700,"Angola","AGO","AO",24,"Africa","Middle Africa, Sub-Saharan Africa",true,"Republic of Angola",1246700,30.3238,78.5385,"COG, COD, ZMB, NAM",41,66.48
+682,37473929,0.01426,2149690,"Saudi Arabia","SAU","SA",682,"Asia","Western Asia, The Middle East",true,"Kingdom of Saudi Arabia",2149690,17.4322,45.1495,"IRQ, JOR, KWT, OMN, QAT, ARE, YEM",42,25.23
+860,35673804,0.0145,447400,"Uzbekistan","UZB","UZ",860,"Asia","Central Asia, South Central Asia",true,"Republic of Uzbekistan",440650,80.9572,209.6792,"AFG, KAZ, KGZ, TJK, TKM",43,33.42
+288,34777522,0.01921,238533,"Ghana","GHA","GH",288,"Africa","Western Africa, Sub-Saharan Africa",true,"Republic of Ghana",227533,152.8461,395.8713,"BFA, CIV, TGO",46,46.98
+604,34683444,0.00963,1285216,"Peru","PER","PE",604,"South America","South America, Latin America",true,"Republic of Peru",1280000,27.0964,70.1798,"BOL, BRA, CHL, COL, ECU",47,66.72
+458,34671895,0.01059,330803,"Malaysia","MYS","MY",458,"Asia","South-Eastern Asia",true,"Malaysia",328550,105.53,273.3228,"BRN, IDN, THA",48,57.29
+524,31240315,0.01113,147181,"Nepal","NPL","NP",524,"Asia","Southern Asia, South Central Asia",true,"Federal Democratic Republic of Nepal",143350,217.9303,564.4396,"CHN, IND",49,36.01
+862,29395334,0.01931,916445,"Venezuela","VEN","VE",862,"South America","South America, Latin America",true,"Bolivarian Republic of Venezuela",882050,33.3262,86.3147,"BRA, COL, GUY",52,83.76
+120,29394433,0.02608,475442,"Cameroon","CMR","CM",120,"Africa","Middle Africa, Sub-Saharan Africa",true,"Republic of Cameroon",472710,62.1828,161.0535,"CAF, TCD, COG, GNQ, GAB, NGA",53,65.24
+36,26699482,0.00985,7692024,"Australia","AUS","AU",36,"Oceania","Australia and New Zealand",true,"Commonwealth of Australia",7692020,3.4711,8.9901,"",55,43.03
+760,24348053,0.04826,185180,"Syria","SYR","SY",760,"Asia","Western Asia, The Middle East",true,"Syrian Arab Republic",183630,132.593,343.4159,"IRQ, ISR, JOR, LBN, TUR",57,67.18
+158,23950214,0.00113,36193,"Taiwan","TWN","TW",158,"Asia","Eastern Asia",false,"Republic of China",36197,661.663,1713.7071,"",59,15.46
+144,21949268,0.00254,65610,"Sri Lanka","LKA","LK",144,"Asia","Southern Asia, South Central Asia",true,"Democratic Socialist Republic of Sri Lanka",61860,354.8217,918.9881,"IND",61,41.39
+894,21134695,0.02747,752612,"Zambia","ZMB","ZM",894,"Africa","Eastern Africa, Sub-Saharan Africa",true,"Republic of Zambia",743390,28.4302,73.6341,"AGO, BWA, COD, MWI, MOZ, NAM, TZA, ZWE",63,43.62
+398,19828165,0.0113,2724900,"Kazakhstan","KAZ","KZ",398,"Asia","Central Asia",true,"Republic of Kazakhstan",2699700,7.3446,19.0225,"CHN, KGZ, RUS, TKM, UZB",64,53.77
+152,19658839,0.00149,756102,"Chile","CHL","CL",152,"South America","South America, Latin America",true,"Republic of Chile",743532,26.4398,68.4791,"ARG, BOL, PER",65,53.42
+642,19618996,-0.01377,238391,"Romania","ROU","RO",642,"Europe","Eastern Europe",true,"Romania",230080,85.2703,220.8501,"BGR, HUN, MDA, SRB, UKR",66,28.3
+706,18706922,0.03106,637657,"Somalia","SOM","SO",706,"Africa","Eastern Africa, Sub-Saharan Africa",true,"Federal Republic of Somalia",627340,29.8194,77.2323,"DJI, ETH, KEN",68,56.04
+218,18377367,0.01027,276841,"Ecuador","ECU","EC",218,"South America","South America, Latin America",true,"Republic of Ecuador",248360,73.9949,191.6467,"COL, PER",69,55.23
+320,18358430,0.01473,108889,"Guatemala","GTM","GT",320,"North America","Central America, Latin America",true,"Republic of Guatemala",107160,171.3179,443.7135,"BLZ, SLV, HND, MEX",70,58.67
+528,17671125,0.003,41850,"Netherlands","NLD","NL",528,"Europe","Western Europe",true,"Netherlands",33670,524.8329,1359.3173,"BEL, DEU",72,27.16
+116,17121847,0.01045,181035,"Cambodia","KHM","KH",116,"Asia","South-Eastern Asia",true,"Kingdom of Cambodia",176520,96.9966,251.2213,"LAO, THA, VNM",73,51.13
+716,17020321,0.0213,390757,"Zimbabwe","ZWE","ZW",716,"Africa","Eastern Africa, Sub-Saharan Africa",true,"Republic of Zimbabwe",386850,43.9972,113.9528,"BWA, MOZ, ZAF, ZMB",74,59.3
+646,14414910,0.02272,26338,"Rwanda","RWA","RW",646,"Africa","Eastern Africa, Sub-Saharan Africa",true,"Republic of Rwanda",24670,584.3093,1513.361,"BDI, COD, TZA, UGA",76,24.89
+68,12567336,0.01443,1098581,"Bolivia","BOL","BO",68,"South America","South America, Latin America",true,"Plurinational State of Bolivia",1083300,11.601,30.0465,"ARG, BRA, CHL, PRY, PER",79,57.77
+788,12564689,0.00855,163610,"Tunisia","TUN","TN",788,"Africa","Northern Africa",true,"Tunisian Republic",155360,80.8747,209.4654,"DZA, LBY",80,43.69
+56,11715774,0.00254,30528,"Belgium","BEL","BE",56,"Europe","Western Europe",true,"Kingdom of Belgium",30280,386.9146,1002.1088,"FRA, DEU, LUX, NLD",82,44.58
+214,11434005,0.00892,48671,"Dominican Republic","DOM","DO",214,"North America","Caribbean",true,"Dominican Republic",48310,236.6799,613.0009,"HTI",83,61.02
+400,11384922,0.00422,89342,"Jordan","JOR","JO",400,"Asia","Western Asia, The Middle East",true,"Hashemite Kingdom of Jordan",88794,128.2172,332.0827,"IRQ, ISR, SAU, SYR",84,39.96
+192,11174587,-0.00177,109884,"Cuba","CUB","CU",192,"North America","Caribbean",true,"Republic of Cuba",103800,107.655,278.8264,"",86,28.33
+340,10759406,0.01563,112492,"Honduras","HND","HN",340,"North America","Central America, Latin America",true,"Republic of Honduras",111890,96.1606,249.0559,"GTM, SLV, NIC",87,74.54
+752,10673669,0.0058,450295,"Sweden","SWE","SE",752,"Europe","Northern Europe",true,"Kingdom of Sweden",407283.5,26.207,67.8761,"FIN, NOR",88,48
+598,10515788,0.01799,462840,"Papua New Guinea","PNG","PG",598,"Oceania","Melanesia",true,"Independent State of Papua New Guinea",452860,23.2208,60.142,"IDN",89,80.79
+203,10503734,0.0008,78865,"Czech Republic","CZE","CZ",203,"Europe","Eastern Europe",true,"Czech Republic",77198.5,136.0614,352.399,"AUT, DEU, POL, SVK",90,25.52
+31,10462904,0.00483,86600,"Azerbaijan","AZE","AZ",31,"Asia","Western Asia",true,"Republic of Azerbaijan",82646,126.599,327.8915,"ARM, GEO, IRN, RUS, TUR",91,32.02
+300,10302720,-0.00373,131990,"Greece","GRC","GR",300,"Europe","Southern Europe",true,"Hellenic Republic",128900,79.928,207.0135,"ALB, BGR, TUR, MKD",93,45.85
+620,10223349,-0.00237,92090,"Portugal","PRT","PT",620,"Europe","Southern Europe",true,"Portuguese Republic",91605.6,111.6018,289.0486,"ESP",94,29.91
+348,9994993,-0.01588,93028,"Hungary","HUN","HU",348,"Europe","Eastern Europe",true,"Hungary",91260,109.5222,283.6624,"AUT, HRV, ROU, SRB, SVK, SVN, UKR",95,34.36
+784,9591853,0.00788,83600,"United Arab Emirates","ARE","AE",784,"Asia","Western Asia, The Middle East",true,"United Arab Emirates",71020,135.0585,349.8015,"OMN, SAU",96,15.23
+112,9455037,-0.00455,207600,"Belarus","BLR","BY",112,"Europe","Eastern Europe",true,"Republic of Belarus",202980,46.5811,120.6451,"LVA, LTU, POL, RUS, UKR",97,59.58
+376,9311652,0.01495,20770,"Israel","ISR","IL",376,"Asia","Western Asia, The Middle East",true,"State of Israel",21640,430.2982,1114.4722,"EGY, JOR, LBN, SYR",98,31.47
+40,8977139,0.00203,83871,"Austria","AUT","AT",40,"Europe","Western Europe",true,"Republic of Austria",82520,108.7874,281.7595,"CZE, DEU, HUN, ITA, LIE, SVK, SVN, CHE",101,25.54
+756,8851431,0.00623,41284,"Switzerland","CHE","CH",756,"Europe","Western Europe",true,"Swiss Confederation",39516,223.9961,580.15,"AUT, FRA, ITA, LIE, DEU",102,21.62
+344,7496681,0.00068,1104,"Hong Kong","HKG","HK",344,"Asia","Eastern Asia",false,"Hong Kong Special Administrative Region of the People's Republic of China",1050,7139.6962,18491.8131,"CHN",104,22
+558,7142529,0.01366,130373,"Nicaragua","NIC","NI",558,"North America","Central America, Latin America",true,"Republic of Nicaragua",120340,59.3529,153.724,"CRI, HND",105,47.89
+688,7097028,-0.00728,88361,"Serbia","SRB","RS",688,"Europe","Southern Europe",true,"Republic of Serbia",87460,81.146,210.1681,"BIH, BGR, HRV, HUN, KOS, MKD, MNE, ROU",106,38.1
+434,6964197,0.01101,1759540,"Libya","LBY","LY",434,"Africa","Northern Africa",true,"State of Libya",1759540,3.958,10.2511,"DZA, TCD, EGY, NER, SDN, TUN",107,61.78
+600,6947270,0.0125,406752,"Paraguay","PRY","PY",600,"South America","South America, Latin America",true,"Republic of Paraguay",397300,17.4862,45.2893,"ARG, BOL, BRA",108,49.37
+417,6839606,0.01548,199951,"Kyrgyzstan","KGZ","KG",417,"Asia","Central Asia, South Central Asia",true,"Kyrgyz Republic",191800,35.6601,92.3596,"CHN, KAZ, TJK, UZB",109,56.87
+100,6618615,-0.01033,110879,"Bulgaria","BGR","BG",100,"Europe","Eastern Europe",true,"Republic of Bulgaria",108560,60.9673,157.9054,"GRC, MKD, ROU, SRB, TUR",110,38.21
+222,6396289,0.00493,21041,"El Salvador","SLV","SV",222,"North America","Central America, Latin America",true,"Republic of El Salvador",20720,308.7012,799.5361,"GTM, HND",112,67.79
+702,6052709,0.00632,710,"Singapore","SGP","SG",702,"Asia","South-Eastern Asia",true,"Republic of Singapore",718,8429.9568,21833.5882,"",114,27.96
+208,5939695,0.00487,43094,"Denmark","DNK","DK",208,"Europe","Northern Europe",true,"Kingdom of Denmark",40000,148.4924,384.5953,"DEU",115,26.22
+703,5702832,-0.01594,49037,"Slovakia","SVK","SK",703,"Europe","Eastern Europe",true,"Slovak Republic",49035,116.3013,301.2202,"AUT, CZE, HUN, POL, UKR",117,30.37
+246,5549886,0.0008,338424,"Finland","FIN","FI",246,"Europe","Northern Europe",true,"Republic of Finland",303940,18.2598,47.2929,"NOR, SWE, RUS",118,27.59
+578,5514477,0.00733,323802,"Norway","NOR","NO",578,"Europe","Northern Europe",true,"Kingdom of Norway",364285,15.1378,39.2069,"FIN, SWE, RUS",120,33.72
+275,5494963,0.02304,6220,"Palestine","PSE","PS",275,"Asia","Western Asia, The Middle East",true,"State of Palestine",6020,912.7846,2364.112,"ISR, EGY, JOR",121,43.74
+554,5269939,0.008,270467,"New Zealand","NZL","NZ",554,"Oceania","Australia and New Zealand",true,"New Zealand",263310,20.0142,51.8368,"",122,42.88
+188,5246714,0.00663,51100,"Costa Rica","CRI","CR",188,"North America","Central America, Latin America",true,"Republic of Costa Rica",51060,102.7559,266.1377,"NIC, PAN",123,54.22
+422,5219044,-0.02519,10452,"Lebanon","LBN","LB",422,"Asia","Western Asia, The Middle East",true,"Lebanese Republic",10230,510.1705,1321.3415,"ISR, SYR",124,46.77
+372,5089478,0.00644,70273,"Ireland","IRL","IE",372,"Europe","Northern Europe",true,"Ireland",68890,73.8783,191.3449,"GBR",125,45.51
+512,4713553,0.01489,309500,"Oman","OMN","OM",512,"Asia","Western Asia, The Middle East",true,"Sultanate of Oman",309500,15.2296,39.4446,"SAU, ARE, YEM",127,20.34
+591,4527961,0.0134,75417,"Panama","PAN","PA",591,"North America","Central America, Latin America",true,"Republic of Panama",74180,61.0402,158.0941,"COL, CRI",128,45.15
+414,4349380,0.00911,17818,"Kuwait","KWT","KW",414,"Asia","Western Asia, The Middle East",true,"State of Kuwait",17820,244.073,632.1489,"IRQ, SAU",129,33.42
+191,3986627,-0.00549,56594,"Croatia","HRV","HR",191,"Europe","Southern Europe",true,"Republic of Croatia",55960,71.2407,184.5133,"BIH, HUN, MNE, SRB, SVN",130,24.59
+268,3717425,-0.00291,69700,"Georgia","GEO","GE",268,"Asia","Western Asia",true,"Georgia",69490,53.4958,138.5542,"ARM, AZE, RUS, TUR",132,23.38
+496,3493629,0.01348,1564110,"Mongolia","MNG","MN",496,"Asia","Eastern Asia",true,"Mongolia",1557506.8,2.2431,5.8096,"CHN, RUS",133,56.01
+858,3423316,0.00006,181034,"Uruguay","URY","UY",858,"South America","South America, Latin America",true,"Oriental Republic of Uruguay",175020,19.5596,50.6593,"ARG, BRA",134,51.73
+498,3329865,-0.03087,33846,"Moldova","MDA","MD",498,"Europe","Eastern Europe",true,"Republic of Moldova",32884.6,101.2591,262.2611,"ROU, UKR",135,46.35
+630,3268802,0.0026,8870,"Puerto Rico","PRI","PR",630,"North America","Caribbean",false,"Commonwealth of Puerto Rico",8870,368.5233,954.4754,"",136,62.84
+8,2826020,-0.00227,28748,"Albania","ALB","AL",8,"Europe","Southern Europe",true,"Republic of Albania",27400,103.1394,267.1311,"MNE, GRC, MKD, KOS",139,42.53
+388,2824738,-0.00029,10991,"Jamaica","JAM","JM",388,"North America","Caribbean",true,"Jamaica",10830,260.8253,675.5375,"",140,67.42
+51,2777979,0,29743,"Armenia","ARM","AM",51,"Asia","Western Asia",true,"Republic of Armenia",28470,97.5757,252.721,"AZE, GEO, IRN, TUR",141,22.79
+634,2737061,0.00761,11586,"Qatar","QAT","QA",634,"Asia","Western Asia, The Middle East",true,"State of Qatar",11490,238.2124,616.9702,"SAU",142,12.13
+72,2719694,0.01657,582000,"Botswana","BWA","BW",72,"Africa","Southern Africa, Sub-Saharan Africa",true,"Republic of Botswana",566730,4.7989,12.4292,"NAM, ZAF, ZMB, ZWE",143,52.98
+440,2692798,-0.0094,65300,"Lithuania","LTU","LT",440,"Europe","Northern Europe",true,"Republic of Lithuania",62620,43.0022,111.3757,"BLR, LVA, POL, RUS",144,33.42
+516,2645805,0.01599,825615,"Namibia","NAM","NA",516,"Africa","Southern Africa, Sub-Saharan Africa",true,"Republic of Namibia",823290,3.2137,8.3235,"AGO, BWA, ZAF, ZMB",145,65.21
+705,2118965,-0.00034,20273,"Slovenia","SVN","SI",705,"Europe","Southern Europe",true,"Republic of Slovenia",20136.4,105.2306,272.5472,"AUT, HRV, ITA, HUN",149,22.28
+807,2082706.0000000002,-0.00143,25713,"North Macedonia","MKD","MK",807,"Europe","Southern Europe",true,"Republic of North Macedonia",25220,82.5815,213.8861,"ALB, BGR, GRC, KOS, SRB",150,39.12
+428,1810240,-0.01091,64559,"Latvia","LVA","LV",428,"Europe","Northern Europe",true,"Republic of Latvia",62230,29.0895,75.3418,"BLR, EST, LTU, RUS",151,38.77
+48,1498712,0.00889,765,"Bahrain","BHR","BH",48,"Asia","Western Asia, The Middle East",true,"Kingdom of Bahrain",785,1909.1873,4944.795,"",154,25.64
+233,1319041,-0.00282,45227,"Estonia","EST","EE",233,"Europe","Northern Europe",true,"Republic of Estonia",42750,30.8548,79.9138,"LVA, RUS",156,23.71
+480,1301978,0.00109,2040,"Mauritius","MUS","MU",480,"Africa","Eastern Africa, Sub-Saharan Africa",true,"Republic of Mauritius",2030,641.3685,1661.1443,"",157,48.88
+196,1268467,0.00661,9251,"Cyprus","CYP","CY",196,"Europe","Eastern Europe, The Middle East",true,"Republic of Cyprus",9240,137.28,355.5551,"GBR",158,31.28
+242,943072,0.00715,18272,"Fiji","FJI","FJ",242,"Oceania","Melanesia",true,"Republic of Fiji",18270,51.6186,133.6922,"",162,57.62
+328,819594,0.00708,214969,"Guyana","GUY","GY",328,"South America","South America, Latin America",true,"Co-operative Republic of Guyana",196850,4.1635,10.7836,"BRA, SUR, VEN",164,68.74
+442,661594,0.01043,2586,"Luxembourg","LUX","LU",442,"Europe","Western Europe",true,"Grand Duchy of Luxembourg",2574.5,256.9796,665.5772,"BEL, FRA, DEU",168,34.13
+499,626102,-0.00061,13812,"Montenegro","MNE","ME",499,"Europe","Southern Europe",true,"Montenegro",13450,46.5503,120.5654,"ALB, BIH, HRV, KOS, SRB",170,41.18
+470,536740,0.00313,316,"Malta","MLT","MT",470,"Europe","Southern Europe",true,"Republic of Malta",320,1677.3125,4344.2394,"",173,40.39
+462,517886.99999999994,-0.00602,300,"Maldives","MDV","MV",462,"Asia","Southern Asia, South Central Asia",true,"Republic of the Maldives",300,1726.29,4471.0911,"",174,55.34
+96,455858,0.00737,5765,"Brunei","BRN","BN",96,"Asia","South-Eastern Asia",true,"Nation of Brunei, Abode of Peace",5270,86.5006,224.0365,"MYS",175,29
+84,416656,0.01419,22966,"Belize","BLZ","BZ",84,"North America","Central America, Latin America",true,"Belize",22810,18.2664,47.3099,"GTM, MEX",176,50.39
+44,415223,0.0063,13943,"Bahamas","BHS","BS",44,"North America","Caribbean",true,"Commonwealth of the Bahamas",10010,41.4808,107.4353,"",177,62.06
+352,377689,0.00632,103000,"Iceland","ISL","IS",352,"Europe","Northern Europe",true,"Iceland",100830,3.7458,9.7016,"",179,23.75
+"World",true,44.39734489045278

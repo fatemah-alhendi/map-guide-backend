@@ -1,0 +1,3012 @@
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Country',
+  1 => 'CountryCode',
+  2 => 'Currency',
+  3 => 'Code',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'New Zealand',
+  1 => 'NZ',
+  2 => 'New Zealand Dollars',
+  3 => 'NZD',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Cook Islands',
+  1 => 'CK',
+  2 => 'New Zealand Dollars',
+  3 => 'NZD',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Niue',
+  1 => 'NU',
+  2 => 'New Zealand Dollars',
+  3 => 'NZD',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Pitcairn',
+  1 => 'PN',
+  2 => 'New Zealand Dollars',
+  3 => 'NZD',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Tokelau',
+  1 => 'TK',
+  2 => 'New Zealand Dollars',
+  3 => 'NZD',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Australian',
+  1 => 'AU',
+  2 => 'Australian Dollars',
+  3 => 'AUD',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Christmas Island',
+  1 => 'CX',
+  2 => 'Australian Dollars',
+  3 => 'AUD',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Cocos (Keeling) Islands',
+  1 => 'CC',
+  2 => 'Australian Dollars',
+  3 => 'AUD',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Heard and Mc Donald Islands',
+  1 => 'HM',
+  2 => 'Australian Dollars',
+  3 => 'AUD',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Kiribati',
+  1 => 'KI',
+  2 => 'Australian Dollars',
+  3 => 'AUD',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Nauru',
+  1 => 'NR',
+  2 => 'Australian Dollars',
+  3 => 'AUD',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Norfolk Island',
+  1 => 'NF',
+  2 => 'Australian Dollars',
+  3 => 'AUD',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Tuvalu',
+  1 => 'TV',
+  2 => 'Australian Dollars',
+  3 => 'AUD',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'American Samoa',
+  1 => 'AS',
+  2 => 'Euros',
+  3 => 'EUR',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Andorra',
+  1 => 'AD',
+  2 => 'Euros',
+  3 => 'EUR',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Austria',
+  1 => 'AT',
+  2 => 'Euros',
+  3 => 'EUR',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Belgium',
+  1 => 'BE',
+  2 => 'Euros',
+  3 => 'EUR',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Finland',
+  1 => 'FI',
+  2 => 'Euros',
+  3 => 'EUR',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'France',
+  1 => 'FR',
+  2 => 'Euros',
+  3 => 'EUR',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'French Guiana',
+  1 => 'GF',
+  2 => 'Euros',
+  3 => 'EUR',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'French Southern Territories',
+  1 => 'TF',
+  2 => 'Euros',
+  3 => 'EUR',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Germany',
+  1 => 'DE',
+  2 => 'Euros',
+  3 => 'EUR',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Greece',
+  1 => 'GR',
+  2 => 'Euros',
+  3 => 'EUR',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Guadeloupe',
+  1 => 'GP',
+  2 => 'Euros',
+  3 => 'EUR',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Ireland',
+  1 => 'IE',
+  2 => 'Euros',
+  3 => 'EUR',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Italy',
+  1 => 'IT',
+  2 => 'Euros',
+  3 => 'EUR',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Luxembourg',
+  1 => 'LU',
+  2 => 'Euros',
+  3 => 'EUR',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Martinique',
+  1 => 'MQ',
+  2 => 'Euros',
+  3 => 'EUR',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Mayotte',
+  1 => 'YT',
+  2 => 'Euros',
+  3 => 'EUR',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Monaco',
+  1 => 'MC',
+  2 => 'Euros',
+  3 => 'EUR',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Netherlands',
+  1 => 'NL',
+  2 => 'Euros',
+  3 => 'EUR',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Portugal',
+  1 => 'PT',
+  2 => 'Euros',
+  3 => 'EUR',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Reunion',
+  1 => 'RE',
+  2 => 'Euros',
+  3 => 'EUR',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Samoa',
+  1 => 'WS',
+  2 => 'Euros',
+  3 => 'EUR',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'San Marino',
+  1 => 'SM',
+  2 => 'Euros',
+  3 => 'EUR',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Slovenia',
+  1 => 'SI',
+  2 => 'Euros',
+  3 => 'EUR',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Spain',
+  1 => 'ES',
+  2 => 'Euros',
+  3 => 'EUR',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Vatican City State (Holy See)',
+  1 => 'VA',
+  2 => 'Euros',
+  3 => 'EUR',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'South Georgia and the South Sandwich Islands',
+  1 => 'GS',
+  2 => 'Sterling',
+  3 => 'GBP',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'United Kingdom',
+  1 => 'GB',
+  2 => 'Sterling',
+  3 => 'GBP',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Jersey',
+  1 => 'JE',
+  2 => 'Sterling',
+  3 => 'GBP',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'British Indian Ocean Territory',
+  1 => 'IO',
+  2 => 'USD',
+  3 => 'USD',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Guam',
+  1 => 'GU',
+  2 => 'USD',
+  3 => 'USD',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Marshall Islands',
+  1 => 'MH',
+  2 => 'USD',
+  3 => 'USD',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Micronesia Federated States of',
+  1 => 'FM',
+  2 => 'USD',
+  3 => 'USD',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Northern Mariana Islands',
+  1 => 'MP',
+  2 => 'USD',
+  3 => 'USD',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Palau',
+  1 => 'PW',
+  2 => 'USD',
+  3 => 'USD',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Puerto Rico',
+  1 => 'PR',
+  2 => 'USD',
+  3 => 'USD',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Turks and Caicos Islands',
+  1 => 'TC',
+  2 => 'USD',
+  3 => 'USD',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'United States',
+  1 => 'US',
+  2 => 'USD',
+  3 => 'USD',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'United States Minor Outlying Islands',
+  1 => 'UM',
+  2 => 'USD',
+  3 => 'USD',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Virgin Islands (British)',
+  1 => 'VG',
+  2 => 'USD',
+  3 => 'USD',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Virgin Islands (US)',
+  1 => 'VI',
+  2 => 'USD',
+  3 => 'USD',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Hong Kong',
+  1 => 'HK',
+  2 => 'HKD',
+  3 => 'HKD',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Canada',
+  1 => 'CA',
+  2 => 'Canadian Dollar',
+  3 => 'CAD',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Japan',
+  1 => 'JP',
+  2 => 'Japanese Yen',
+  3 => 'JPY',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Afghanistan',
+  1 => 'AF',
+  2 => 'Afghani',
+  3 => 'AFN',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Albania',
+  1 => 'AL',
+  2 => 'Lek',
+  3 => 'ALL',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Algeria',
+  1 => 'DZ',
+  2 => 'Algerian Dinar',
+  3 => 'DZD',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Anguilla',
+  1 => 'AI',
+  2 => 'East Caribbean Dollar',
+  3 => 'XCD',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Antigua and Barbuda',
+  1 => 'AG',
+  2 => 'East Caribbean Dollar',
+  3 => 'XCD',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Dominica',
+  1 => 'DM',
+  2 => 'East Caribbean Dollar',
+  3 => 'XCD',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Grenada',
+  1 => 'GD',
+  2 => 'East Caribbean Dollar',
+  3 => 'XCD',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Montserrat',
+  1 => 'MS',
+  2 => 'East Caribbean Dollar',
+  3 => 'XCD',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Saint Kitts',
+  1 => 'KN',
+  2 => 'East Caribbean Dollar',
+  3 => 'XCD',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Saint Lucia',
+  1 => 'LC',
+  2 => 'East Caribbean Dollar',
+  3 => 'XCD',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Saint Vincent Grenadines',
+  1 => 'VC',
+  2 => 'East Caribbean Dollar',
+  3 => 'XCD',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Argentina',
+  1 => 'AR',
+  2 => 'Peso',
+  3 => 'ARS',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Armenia',
+  1 => 'AM',
+  2 => 'Dram',
+  3 => 'AMD',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Aruba',
+  1 => 'AW',
+  2 => 'Netherlands Antilles Guilder',
+  3 => 'ANG',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Netherlands Antilles',
+  1 => 'AN',
+  2 => 'Netherlands Antilles Guilder',
+  3 => 'ANG',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Azerbaijan',
+  1 => 'AZ',
+  2 => 'Manat',
+  3 => 'AZN',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Bahamas',
+  1 => 'BS',
+  2 => 'Bahamian Dollar',
+  3 => 'BSD',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Bahrain',
+  1 => 'BH',
+  2 => 'Bahraini Dinar',
+  3 => 'BHD',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Bangladesh',
+  1 => 'BD',
+  2 => 'Taka',
+  3 => 'BDT',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Barbados',
+  1 => 'BB',
+  2 => 'Barbadian Dollar',
+  3 => 'BBD',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Belarus',
+  1 => 'BY',
+  2 => 'Belarus Ruble',
+  3 => 'BYR',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Belize',
+  1 => 'BZ',
+  2 => 'Belizean Dollar',
+  3 => 'BZD',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Benin',
+  1 => 'BJ',
+  2 => 'CFA Franc BCEAO',
+  3 => 'XOF',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Burkina Faso',
+  1 => 'BF',
+  2 => 'CFA Franc BCEAO',
+  3 => 'XOF',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Guinea-Bissau',
+  1 => 'GW',
+  2 => 'CFA Franc BCEAO',
+  3 => 'XOF',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Ivory Coast',
+  1 => 'CI',
+  2 => 'CFA Franc BCEAO',
+  3 => 'XOF',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Mali',
+  1 => 'ML',
+  2 => 'CFA Franc BCEAO',
+  3 => 'XOF',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Niger',
+  1 => 'NE',
+  2 => 'CFA Franc BCEAO',
+  3 => 'XOF',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Senegal',
+  1 => 'SN',
+  2 => 'CFA Franc BCEAO',
+  3 => 'XOF',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Togo',
+  1 => 'TG',
+  2 => 'CFA Franc BCEAO',
+  3 => 'XOF',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Bermuda',
+  1 => 'BM',
+  2 => 'Bermudian Dollar',
+  3 => 'BMD',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Bhutan',
+  1 => 'BT',
+  2 => 'Indian Rupee',
+  3 => 'INR',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'India',
+  1 => 'IN',
+  2 => 'Indian Rupee',
+  3 => 'INR',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Bolivia',
+  1 => 'BO',
+  2 => 'Boliviano',
+  3 => 'BOB',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Botswana',
+  1 => 'BW',
+  2 => 'Pula',
+  3 => 'BWP',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Bouvet Island',
+  1 => 'BV',
+  2 => 'Norwegian Krone',
+  3 => 'NOK',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Norway',
+  1 => 'NO',
+  2 => 'Norwegian Krone',
+  3 => 'NOK',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Svalbard and Jan Mayen Islands',
+  1 => 'SJ',
+  2 => 'Norwegian Krone',
+  3 => 'NOK',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Brazil',
+  1 => 'BR',
+  2 => 'Brazil',
+  3 => 'BRL',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Brunei Darussalam',
+  1 => 'BN',
+  2 => 'Bruneian Dollar',
+  3 => 'BND',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Bulgaria',
+  1 => 'BG',
+  2 => 'Lev',
+  3 => 'BGN',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Burundi',
+  1 => 'BI',
+  2 => 'Burundi Franc',
+  3 => 'BIF',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Cambodia',
+  1 => 'KH',
+  2 => 'Riel',
+  3 => 'KHR',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Cameroon',
+  1 => 'CM',
+  2 => 'CFA Franc BEAC',
+  3 => 'XAF',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Central African Republic',
+  1 => 'CF',
+  2 => 'CFA Franc BEAC',
+  3 => 'XAF',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Chad',
+  1 => 'TD',
+  2 => 'CFA Franc BEAC',
+  3 => 'XAF',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Congo Republic of the Democratic',
+  1 => 'CG',
+  2 => 'CFA Franc BEAC',
+  3 => 'XAF',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Equatorial Guinea',
+  1 => 'GQ',
+  2 => 'CFA Franc BEAC',
+  3 => 'XAF',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Gabon',
+  1 => 'GA',
+  2 => 'CFA Franc BEAC',
+  3 => 'XAF',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Cape Verde',
+  1 => 'CV',
+  2 => 'Escudo',
+  3 => 'CVE',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Cayman Islands',
+  1 => 'KY',
+  2 => 'Caymanian Dollar',
+  3 => 'KYD',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Chile',
+  1 => 'CL',
+  2 => 'Chilean Peso',
+  3 => 'CLP',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'China',
+  1 => 'CN',
+  2 => 'Yuan Renminbi',
+  3 => 'CNY',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Colombia',
+  1 => 'CO',
+  2 => 'Peso',
+  3 => 'COP',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Comoros',
+  1 => 'KM',
+  2 => 'Comoran Franc',
+  3 => 'KMF',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Congo-Brazzaville',
+  1 => 'CD',
+  2 => 'Congolese Frank',
+  3 => 'CDF',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Costa Rica',
+  1 => 'CR',
+  2 => 'Costa Rican Colon',
+  3 => 'CRC',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Croatia (Hrvatska)',
+  1 => 'HR',
+  2 => 'Croatian Dinar',
+  3 => 'HRK',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Cuba',
+  1 => 'CU',
+  2 => 'Cuban Peso',
+  3 => 'CUP',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Cyprus',
+  1 => 'CY',
+  2 => 'Cypriot Pound',
+  3 => 'CYP',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Czech Republic',
+  1 => 'CZ',
+  2 => 'Koruna',
+  3 => 'CZK',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Denmark',
+  1 => 'DK',
+  2 => 'Danish Krone',
+  3 => 'DKK',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Faroe Islands',
+  1 => 'FO',
+  2 => 'Danish Krone',
+  3 => 'DKK',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Greenland',
+  1 => 'GL',
+  2 => 'Danish Krone',
+  3 => 'DKK',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Djibouti',
+  1 => 'DJ',
+  2 => 'Djiboutian Franc',
+  3 => 'DJF',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Dominican Republic',
+  1 => 'DO',
+  2 => 'Dominican Peso',
+  3 => 'DOP',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'East Timor',
+  1 => 'TP',
+  2 => 'Indonesian Rupiah',
+  3 => 'IDR',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Indonesia',
+  1 => 'ID',
+  2 => 'Indonesian Rupiah',
+  3 => 'IDR',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Ecuador',
+  1 => 'EC',
+  2 => 'Sucre',
+  3 => 'ECS',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Egypt',
+  1 => 'EG',
+  2 => 'Egyptian Pound',
+  3 => 'EGP',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'El Salvador',
+  1 => 'SV',
+  2 => 'Salvadoran Colon',
+  3 => 'SVC',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Eritrea',
+  1 => 'ER',
+  2 => 'Ethiopian Birr',
+  3 => 'ETB',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Ethiopia',
+  1 => 'ET',
+  2 => 'Ethiopian Birr',
+  3 => 'ETB',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Estonia',
+  1 => 'EE',
+  2 => 'Estonian Kroon',
+  3 => 'EEK',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Falkland Islands (Malvinas)',
+  1 => 'FK',
+  2 => 'Falkland Pound',
+  3 => 'FKP',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Fiji',
+  1 => 'FJ',
+  2 => 'Fijian Dollar',
+  3 => 'FJD',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'French Polynesia',
+  1 => 'PF',
+  2 => 'CFP Franc',
+  3 => 'XPF',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'New Caledonia',
+  1 => 'NC',
+  2 => 'CFP Franc',
+  3 => 'XPF',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Wallis and Futuna Islands',
+  1 => 'WF',
+  2 => 'CFP Franc',
+  3 => 'XPF',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Gambia',
+  1 => 'GM',
+  2 => 'Dalasi',
+  3 => 'GMD',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Georgia',
+  1 => 'GE',
+  2 => 'Lari',
+  3 => 'GEL',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Gibraltar',
+  1 => 'GI',
+  2 => 'Gibraltar Pound',
+  3 => 'GIP',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Guatemala',
+  1 => 'GT',
+  2 => 'Quetzal',
+  3 => 'GTQ',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Guinea',
+  1 => 'GN',
+  2 => 'Guinean Franc',
+  3 => 'GNF',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Guyana',
+  1 => 'GY',
+  2 => 'Guyanaese Dollar',
+  3 => 'GYD',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Haiti',
+  1 => 'HT',
+  2 => 'Gourde',
+  3 => 'HTG',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Honduras',
+  1 => 'HN',
+  2 => 'Lempira',
+  3 => 'HNL',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Hungary',
+  1 => 'HU',
+  2 => 'Forint',
+  3 => 'HUF',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Iceland',
+  1 => 'IS',
+  2 => 'Icelandic Krona',
+  3 => 'ISK',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Iran (Islamic Republic of)',
+  1 => 'IR',
+  2 => 'Iranian Rial',
+  3 => 'IRR',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Iraq',
+  1 => 'IQ',
+  2 => 'Iraqi Dinar',
+  3 => 'IQD',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Israel',
+  1 => 'IL',
+  2 => 'Shekel',
+  3 => 'ILS',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Jamaica',
+  1 => 'JM',
+  2 => 'Jamaican Dollar',
+  3 => 'JMD',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Jordan',
+  1 => 'JO',
+  2 => 'Jordanian Dinar',
+  3 => 'JOD',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Kazakhstan',
+  1 => 'KZ',
+  2 => 'Tenge',
+  3 => 'KZT',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Kenya',
+  1 => 'KE',
+  2 => 'Kenyan Shilling',
+  3 => 'KES',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Korea North',
+  1 => 'KP',
+  2 => 'Won',
+  3 => 'KPW',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Korea South',
+  1 => 'KR',
+  2 => 'Won',
+  3 => 'KRW',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Kuwait',
+  1 => 'KW',
+  2 => 'Kuwaiti Dinar',
+  3 => 'KWD',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Kyrgyzstan',
+  1 => 'KG',
+  2 => 'Som',
+  3 => 'KGS',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Lao PeopleÕs Democratic Republic',
+  1 => 'LA',
+  2 => 'Kip',
+  3 => 'LAK',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Latvia',
+  1 => 'LV',
+  2 => 'Lat',
+  3 => 'LVL',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Lebanon',
+  1 => 'LB',
+  2 => 'Lebanese Pound',
+  3 => 'LBP',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Lesotho',
+  1 => 'LS',
+  2 => 'Loti',
+  3 => 'LSL',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Liberia',
+  1 => 'LR',
+  2 => 'Liberian Dollar',
+  3 => 'LRD',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Libyan Arab Jamahiriya',
+  1 => 'LY',
+  2 => 'Libyan Dinar',
+  3 => 'LYD',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Liechtenstein',
+  1 => 'LI',
+  2 => 'Swiss Franc',
+  3 => 'CHF',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Switzerland',
+  1 => 'CH',
+  2 => 'Swiss Franc',
+  3 => 'CHF',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Lithuania',
+  1 => 'LT',
+  2 => 'Lita',
+  3 => 'LTL',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Macau',
+  1 => 'MO',
+  2 => 'Pataca',
+  3 => 'MOP',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Macedonia',
+  1 => 'MK',
+  2 => 'Denar',
+  3 => 'MKD',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Madagascar',
+  1 => 'MG',
+  2 => 'Malagasy Franc',
+  3 => 'MGA',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Malawi',
+  1 => 'MW',
+  2 => 'Malawian Kwacha',
+  3 => 'MWK',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Malaysia',
+  1 => 'MY',
+  2 => 'Ringgit',
+  3 => 'MYR',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Maldives',
+  1 => 'MV',
+  2 => 'Rufiyaa',
+  3 => 'MVR',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Malta',
+  1 => 'MT',
+  2 => 'Maltese Lira',
+  3 => 'MTL',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Mauritania',
+  1 => 'MR',
+  2 => 'Ouguiya',
+  3 => 'MRO',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Mauritius',
+  1 => 'MU',
+  2 => 'Mauritian Rupee',
+  3 => 'MUR',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Mexico',
+  1 => 'MX',
+  2 => 'Peso',
+  3 => 'MXN',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Moldova Republic of',
+  1 => 'MD',
+  2 => 'Leu',
+  3 => 'MDL',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Mongolia',
+  1 => 'MN',
+  2 => 'Tugrik',
+  3 => 'MNT',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Morocco',
+  1 => 'MA',
+  2 => 'Dirham',
+  3 => 'MAD',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Western Sahara',
+  1 => 'EH',
+  2 => 'Dirham',
+  3 => 'MAD',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Mozambique',
+  1 => 'MZ',
+  2 => 'Metical',
+  3 => 'MZN',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Myanmar',
+  1 => 'MM',
+  2 => 'Kyat',
+  3 => 'MMK',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Namibia',
+  1 => 'NA',
+  2 => 'Dollar',
+  3 => 'NAD',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Nepal',
+  1 => 'NP',
+  2 => 'Nepalese Rupee',
+  3 => 'NPR',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Nicaragua',
+  1 => 'NI',
+  2 => 'Cordoba Oro',
+  3 => 'NIO',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Nigeria',
+  1 => 'NG',
+  2 => 'Naira',
+  3 => 'NGN',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Oman',
+  1 => 'OM',
+  2 => 'Sul Rial',
+  3 => 'OMR',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Pakistan',
+  1 => 'PK',
+  2 => 'Rupee',
+  3 => 'PKR',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Panama',
+  1 => 'PA',
+  2 => 'Balboa',
+  3 => 'PAB',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Papua New Guinea',
+  1 => 'PG',
+  2 => 'Kina',
+  3 => 'PGK',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Paraguay',
+  1 => 'PY',
+  2 => 'Guarani',
+  3 => 'PYG',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Peru',
+  1 => 'PE',
+  2 => 'Nuevo Sol',
+  3 => 'PEN',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Philippines',
+  1 => 'PH',
+  2 => 'Peso',
+  3 => 'PHP',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Poland',
+  1 => 'PL',
+  2 => 'Zloty',
+  3 => 'PLN',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Qatar',
+  1 => 'QA',
+  2 => 'Rial',
+  3 => 'QAR',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Romania',
+  1 => 'RO',
+  2 => 'Leu',
+  3 => 'RON',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Russian Federation',
+  1 => 'RU',
+  2 => 'Ruble',
+  3 => 'RUB',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Rwanda',
+  1 => 'RW',
+  2 => 'Rwanda Franc',
+  3 => 'RWF',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Sao Tome and Principe',
+  1 => 'ST',
+  2 => 'Dobra',
+  3 => 'STD',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Saudi Arabia',
+  1 => 'SA',
+  2 => 'Riyal',
+  3 => 'SAR',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Seychelles',
+  1 => 'SC',
+  2 => 'Rupee',
+  3 => 'SCR',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Sierra Leone',
+  1 => 'SL',
+  2 => 'Leone',
+  3 => 'SLL',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Singapore',
+  1 => 'SG',
+  2 => 'Dollar',
+  3 => 'SGD',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Slovakia (Slovak Republic)',
+  1 => 'SK',
+  2 => 'Koruna',
+  3 => 'SKK',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Solomon Islands',
+  1 => 'SB',
+  2 => 'Solomon Islands Dollar',
+  3 => 'SBD',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Somalia',
+  1 => 'SO',
+  2 => 'Shilling',
+  3 => 'SOS',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'South Africa',
+  1 => 'ZA',
+  2 => 'Rand',
+  3 => 'ZAR',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Sri Lanka',
+  1 => 'LK',
+  2 => 'Rupee',
+  3 => 'LKR',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Sudan',
+  1 => 'SD',
+  2 => 'Dinar',
+  3 => 'SDG',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Suriname',
+  1 => 'SR',
+  2 => 'Surinamese Guilder',
+  3 => 'SRD',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Swaziland',
+  1 => 'SZ',
+  2 => 'Lilangeni',
+  3 => 'SZL',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Sweden',
+  1 => 'SE',
+  2 => 'Krona',
+  3 => 'SEK',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Syrian Arab Republic',
+  1 => 'SY',
+  2 => 'Syrian Pound',
+  3 => 'SYP',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Taiwan',
+  1 => 'TW',
+  2 => 'Dollar',
+  3 => 'TWD',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Tajikistan',
+  1 => 'TJ',
+  2 => 'Tajikistan Ruble',
+  3 => 'TJS',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Tanzania',
+  1 => 'TZ',
+  2 => 'Shilling',
+  3 => 'TZS',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Thailand',
+  1 => 'TH',
+  2 => 'Baht',
+  3 => 'THB',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Tonga',
+  1 => 'TO',
+  2 => 'PaÕanga',
+  3 => 'TOP',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Trinidad and Tobago',
+  1 => 'TT',
+  2 => 'Trinidad and Tobago Dollar',
+  3 => 'TTD',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Tunisia',
+  1 => 'TN',
+  2 => 'Tunisian Dinar',
+  3 => 'TND',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Turkey',
+  1 => 'TR',
+  2 => 'Lira',
+  3 => 'TRY',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Turkmenistan',
+  1 => 'TM',
+  2 => 'Manat',
+  3 => 'TMT',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Uganda',
+  1 => 'UG',
+  2 => 'Shilling',
+  3 => 'UGX',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Ukraine',
+  1 => 'UA',
+  2 => 'Hryvnia',
+  3 => 'UAH',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'United Arab Emirates',
+  1 => 'AE',
+  2 => 'Dirham',
+  3 => 'AED',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Uruguay',
+  1 => 'UY',
+  2 => 'Peso',
+  3 => 'UYU',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Uzbekistan',
+  1 => 'UZ',
+  2 => 'Som',
+  3 => 'UZS',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Vanuatu',
+  1 => 'VU',
+  2 => 'Vatu',
+  3 => 'VUV',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Venezuela',
+  1 => 'VE',
+  2 => 'Bolivar',
+  3 => 'VEF',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Vietnam',
+  1 => 'VN',
+  2 => 'Dong',
+  3 => 'VND',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Yemen',
+  1 => 'YE',
+  2 => 'Rial',
+  3 => 'YER',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Zambia',
+  1 => 'ZM',
+  2 => 'Kwacha',
+  3 => 'ZMK',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Zimbabwe',
+  1 => 'ZW',
+  2 => 'Zimbabwe Dollar',
+  3 => 'ZWD',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Aland Islands',
+  1 => 'AX',
+  2 => 'Euro',
+  3 => 'EUR',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Angola',
+  1 => 'AO',
+  2 => 'Angolan kwanza',
+  3 => 'AOA',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Antarctica',
+  1 => 'AQ',
+  2 => 'Antarctican dollar',
+  3 => 'AQD',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Bosnia and Herzegovina',
+  1 => 'BA',
+  2 => 'Bosnia and Herzegovina convertible mark',
+  3 => 'BAM',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Congo (Kinshasa)',
+  1 => 'CD',
+  2 => 'Congolese Frank',
+  3 => 'CDF',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Ghana',
+  1 => 'GH',
+  2 => 'Ghana cedi',
+  3 => 'GHS',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Guernsey',
+  1 => 'GG',
+  2 => 'Guernsey pound',
+  3 => 'GGP',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Isle of Man',
+  1 => 'IM',
+  2 => 'Manx pound',
+  3 => 'GBP',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Laos',
+  1 => 'LA',
+  2 => 'Lao kip',
+  3 => 'LAK',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Macao S.A.R.',
+  1 => 'MO',
+  2 => 'Macanese pataca',
+  3 => 'MOP',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Montenegro',
+  1 => 'ME',
+  2 => 'Euro',
+  3 => 'EUR',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Palestinian Territory',
+  1 => 'PS',
+  2 => 'Jordanian dinar',
+  3 => 'JOD',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Saint Barthelemy',
+  1 => 'BL',
+  2 => 'Euro',
+  3 => 'EUR',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Saint Helena',
+  1 => 'SH',
+  2 => 'Saint Helena pound',
+  3 => 'GBP',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Saint Martin (French part)',
+  1 => 'MF',
+  2 => 'Netherlands Antillean guilder',
+  3 => 'ANG',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Saint Pierre and Miquelon',
+  1 => 'PM',
+  2 => 'Euro',
+  3 => 'EUR',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'Serbia',
+  1 => 'RS',
+  2 => 'Serbian dinar',
+  3 => 'RSD',
+)  
+[2024-01-10 14:17:09] local.INFO: array (
+  0 => 'US Armed Forces',
+  1 => 'USAF',
+  2 => 'US Dollar',
+  3 => 'USD',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Country',
+  1 => 'CountryCode',
+  2 => 'Currency',
+  3 => 'Code',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'New Zealand',
+  1 => 'NZ',
+  2 => 'New Zealand Dollars',
+  3 => 'NZD',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Cook Islands',
+  1 => 'CK',
+  2 => 'New Zealand Dollars',
+  3 => 'NZD',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Niue',
+  1 => 'NU',
+  2 => 'New Zealand Dollars',
+  3 => 'NZD',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Pitcairn',
+  1 => 'PN',
+  2 => 'New Zealand Dollars',
+  3 => 'NZD',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Tokelau',
+  1 => 'TK',
+  2 => 'New Zealand Dollars',
+  3 => 'NZD',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Australian',
+  1 => 'AU',
+  2 => 'Australian Dollars',
+  3 => 'AUD',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Christmas Island',
+  1 => 'CX',
+  2 => 'Australian Dollars',
+  3 => 'AUD',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Cocos (Keeling) Islands',
+  1 => 'CC',
+  2 => 'Australian Dollars',
+  3 => 'AUD',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Heard and Mc Donald Islands',
+  1 => 'HM',
+  2 => 'Australian Dollars',
+  3 => 'AUD',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Kiribati',
+  1 => 'KI',
+  2 => 'Australian Dollars',
+  3 => 'AUD',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Nauru',
+  1 => 'NR',
+  2 => 'Australian Dollars',
+  3 => 'AUD',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Norfolk Island',
+  1 => 'NF',
+  2 => 'Australian Dollars',
+  3 => 'AUD',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Tuvalu',
+  1 => 'TV',
+  2 => 'Australian Dollars',
+  3 => 'AUD',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'American Samoa',
+  1 => 'AS',
+  2 => 'Euros',
+  3 => 'EUR',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Andorra',
+  1 => 'AD',
+  2 => 'Euros',
+  3 => 'EUR',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Austria',
+  1 => 'AT',
+  2 => 'Euros',
+  3 => 'EUR',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Belgium',
+  1 => 'BE',
+  2 => 'Euros',
+  3 => 'EUR',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Finland',
+  1 => 'FI',
+  2 => 'Euros',
+  3 => 'EUR',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'France',
+  1 => 'FR',
+  2 => 'Euros',
+  3 => 'EUR',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'French Guiana',
+  1 => 'GF',
+  2 => 'Euros',
+  3 => 'EUR',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'French Southern Territories',
+  1 => 'TF',
+  2 => 'Euros',
+  3 => 'EUR',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Germany',
+  1 => 'DE',
+  2 => 'Euros',
+  3 => 'EUR',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Greece',
+  1 => 'GR',
+  2 => 'Euros',
+  3 => 'EUR',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Guadeloupe',
+  1 => 'GP',
+  2 => 'Euros',
+  3 => 'EUR',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Ireland',
+  1 => 'IE',
+  2 => 'Euros',
+  3 => 'EUR',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Italy',
+  1 => 'IT',
+  2 => 'Euros',
+  3 => 'EUR',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Luxembourg',
+  1 => 'LU',
+  2 => 'Euros',
+  3 => 'EUR',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Martinique',
+  1 => 'MQ',
+  2 => 'Euros',
+  3 => 'EUR',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Mayotte',
+  1 => 'YT',
+  2 => 'Euros',
+  3 => 'EUR',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Monaco',
+  1 => 'MC',
+  2 => 'Euros',
+  3 => 'EUR',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Netherlands',
+  1 => 'NL',
+  2 => 'Euros',
+  3 => 'EUR',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Portugal',
+  1 => 'PT',
+  2 => 'Euros',
+  3 => 'EUR',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Reunion',
+  1 => 'RE',
+  2 => 'Euros',
+  3 => 'EUR',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Samoa',
+  1 => 'WS',
+  2 => 'Euros',
+  3 => 'EUR',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'San Marino',
+  1 => 'SM',
+  2 => 'Euros',
+  3 => 'EUR',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Slovenia',
+  1 => 'SI',
+  2 => 'Euros',
+  3 => 'EUR',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Spain',
+  1 => 'ES',
+  2 => 'Euros',
+  3 => 'EUR',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Vatican City State (Holy See)',
+  1 => 'VA',
+  2 => 'Euros',
+  3 => 'EUR',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'South Georgia and the South Sandwich Islands',
+  1 => 'GS',
+  2 => 'Sterling',
+  3 => 'GBP',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'United Kingdom',
+  1 => 'GB',
+  2 => 'Sterling',
+  3 => 'GBP',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Jersey',
+  1 => 'JE',
+  2 => 'Sterling',
+  3 => 'GBP',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'British Indian Ocean Territory',
+  1 => 'IO',
+  2 => 'USD',
+  3 => 'USD',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Guam',
+  1 => 'GU',
+  2 => 'USD',
+  3 => 'USD',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Marshall Islands',
+  1 => 'MH',
+  2 => 'USD',
+  3 => 'USD',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Micronesia Federated States of',
+  1 => 'FM',
+  2 => 'USD',
+  3 => 'USD',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Northern Mariana Islands',
+  1 => 'MP',
+  2 => 'USD',
+  3 => 'USD',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Palau',
+  1 => 'PW',
+  2 => 'USD',
+  3 => 'USD',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Puerto Rico',
+  1 => 'PR',
+  2 => 'USD',
+  3 => 'USD',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Turks and Caicos Islands',
+  1 => 'TC',
+  2 => 'USD',
+  3 => 'USD',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'United States',
+  1 => 'US',
+  2 => 'USD',
+  3 => 'USD',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'United States Minor Outlying Islands',
+  1 => 'UM',
+  2 => 'USD',
+  3 => 'USD',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Virgin Islands (British)',
+  1 => 'VG',
+  2 => 'USD',
+  3 => 'USD',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Virgin Islands (US)',
+  1 => 'VI',
+  2 => 'USD',
+  3 => 'USD',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Hong Kong',
+  1 => 'HK',
+  2 => 'HKD',
+  3 => 'HKD',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Canada',
+  1 => 'CA',
+  2 => 'Canadian Dollar',
+  3 => 'CAD',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Japan',
+  1 => 'JP',
+  2 => 'Japanese Yen',
+  3 => 'JPY',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Afghanistan',
+  1 => 'AF',
+  2 => 'Afghani',
+  3 => 'AFN',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Albania',
+  1 => 'AL',
+  2 => 'Lek',
+  3 => 'ALL',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Algeria',
+  1 => 'DZ',
+  2 => 'Algerian Dinar',
+  3 => 'DZD',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Anguilla',
+  1 => 'AI',
+  2 => 'East Caribbean Dollar',
+  3 => 'XCD',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Antigua and Barbuda',
+  1 => 'AG',
+  2 => 'East Caribbean Dollar',
+  3 => 'XCD',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Dominica',
+  1 => 'DM',
+  2 => 'East Caribbean Dollar',
+  3 => 'XCD',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Grenada',
+  1 => 'GD',
+  2 => 'East Caribbean Dollar',
+  3 => 'XCD',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Montserrat',
+  1 => 'MS',
+  2 => 'East Caribbean Dollar',
+  3 => 'XCD',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Saint Kitts',
+  1 => 'KN',
+  2 => 'East Caribbean Dollar',
+  3 => 'XCD',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Saint Lucia',
+  1 => 'LC',
+  2 => 'East Caribbean Dollar',
+  3 => 'XCD',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Saint Vincent Grenadines',
+  1 => 'VC',
+  2 => 'East Caribbean Dollar',
+  3 => 'XCD',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Argentina',
+  1 => 'AR',
+  2 => 'Peso',
+  3 => 'ARS',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Armenia',
+  1 => 'AM',
+  2 => 'Dram',
+  3 => 'AMD',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Aruba',
+  1 => 'AW',
+  2 => 'Netherlands Antilles Guilder',
+  3 => 'ANG',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Netherlands Antilles',
+  1 => 'AN',
+  2 => 'Netherlands Antilles Guilder',
+  3 => 'ANG',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Azerbaijan',
+  1 => 'AZ',
+  2 => 'Manat',
+  3 => 'AZN',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Bahamas',
+  1 => 'BS',
+  2 => 'Bahamian Dollar',
+  3 => 'BSD',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Bahrain',
+  1 => 'BH',
+  2 => 'Bahraini Dinar',
+  3 => 'BHD',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Bangladesh',
+  1 => 'BD',
+  2 => 'Taka',
+  3 => 'BDT',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Barbados',
+  1 => 'BB',
+  2 => 'Barbadian Dollar',
+  3 => 'BBD',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Belarus',
+  1 => 'BY',
+  2 => 'Belarus Ruble',
+  3 => 'BYR',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Belize',
+  1 => 'BZ',
+  2 => 'Belizean Dollar',
+  3 => 'BZD',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Benin',
+  1 => 'BJ',
+  2 => 'CFA Franc BCEAO',
+  3 => 'XOF',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Burkina Faso',
+  1 => 'BF',
+  2 => 'CFA Franc BCEAO',
+  3 => 'XOF',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Guinea-Bissau',
+  1 => 'GW',
+  2 => 'CFA Franc BCEAO',
+  3 => 'XOF',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Ivory Coast',
+  1 => 'CI',
+  2 => 'CFA Franc BCEAO',
+  3 => 'XOF',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Mali',
+  1 => 'ML',
+  2 => 'CFA Franc BCEAO',
+  3 => 'XOF',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Niger',
+  1 => 'NE',
+  2 => 'CFA Franc BCEAO',
+  3 => 'XOF',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Senegal',
+  1 => 'SN',
+  2 => 'CFA Franc BCEAO',
+  3 => 'XOF',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Togo',
+  1 => 'TG',
+  2 => 'CFA Franc BCEAO',
+  3 => 'XOF',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Bermuda',
+  1 => 'BM',
+  2 => 'Bermudian Dollar',
+  3 => 'BMD',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Bhutan',
+  1 => 'BT',
+  2 => 'Indian Rupee',
+  3 => 'INR',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'India',
+  1 => 'IN',
+  2 => 'Indian Rupee',
+  3 => 'INR',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Bolivia',
+  1 => 'BO',
+  2 => 'Boliviano',
+  3 => 'BOB',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Botswana',
+  1 => 'BW',
+  2 => 'Pula',
+  3 => 'BWP',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Bouvet Island',
+  1 => 'BV',
+  2 => 'Norwegian Krone',
+  3 => 'NOK',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Norway',
+  1 => 'NO',
+  2 => 'Norwegian Krone',
+  3 => 'NOK',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Svalbard and Jan Mayen Islands',
+  1 => 'SJ',
+  2 => 'Norwegian Krone',
+  3 => 'NOK',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Brazil',
+  1 => 'BR',
+  2 => 'Brazil',
+  3 => 'BRL',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Brunei Darussalam',
+  1 => 'BN',
+  2 => 'Bruneian Dollar',
+  3 => 'BND',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Bulgaria',
+  1 => 'BG',
+  2 => 'Lev',
+  3 => 'BGN',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Burundi',
+  1 => 'BI',
+  2 => 'Burundi Franc',
+  3 => 'BIF',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Cambodia',
+  1 => 'KH',
+  2 => 'Riel',
+  3 => 'KHR',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Cameroon',
+  1 => 'CM',
+  2 => 'CFA Franc BEAC',
+  3 => 'XAF',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Central African Republic',
+  1 => 'CF',
+  2 => 'CFA Franc BEAC',
+  3 => 'XAF',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Chad',
+  1 => 'TD',
+  2 => 'CFA Franc BEAC',
+  3 => 'XAF',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Congo Republic of the Democratic',
+  1 => 'CG',
+  2 => 'CFA Franc BEAC',
+  3 => 'XAF',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Equatorial Guinea',
+  1 => 'GQ',
+  2 => 'CFA Franc BEAC',
+  3 => 'XAF',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Gabon',
+  1 => 'GA',
+  2 => 'CFA Franc BEAC',
+  3 => 'XAF',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Cape Verde',
+  1 => 'CV',
+  2 => 'Escudo',
+  3 => 'CVE',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Cayman Islands',
+  1 => 'KY',
+  2 => 'Caymanian Dollar',
+  3 => 'KYD',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Chile',
+  1 => 'CL',
+  2 => 'Chilean Peso',
+  3 => 'CLP',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'China',
+  1 => 'CN',
+  2 => 'Yuan Renminbi',
+  3 => 'CNY',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Colombia',
+  1 => 'CO',
+  2 => 'Peso',
+  3 => 'COP',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Comoros',
+  1 => 'KM',
+  2 => 'Comoran Franc',
+  3 => 'KMF',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Congo-Brazzaville',
+  1 => 'CD',
+  2 => 'Congolese Frank',
+  3 => 'CDF',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Costa Rica',
+  1 => 'CR',
+  2 => 'Costa Rican Colon',
+  3 => 'CRC',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Croatia (Hrvatska)',
+  1 => 'HR',
+  2 => 'Croatian Dinar',
+  3 => 'HRK',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Cuba',
+  1 => 'CU',
+  2 => 'Cuban Peso',
+  3 => 'CUP',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Cyprus',
+  1 => 'CY',
+  2 => 'Cypriot Pound',
+  3 => 'CYP',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Czech Republic',
+  1 => 'CZ',
+  2 => 'Koruna',
+  3 => 'CZK',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Denmark',
+  1 => 'DK',
+  2 => 'Danish Krone',
+  3 => 'DKK',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Faroe Islands',
+  1 => 'FO',
+  2 => 'Danish Krone',
+  3 => 'DKK',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Greenland',
+  1 => 'GL',
+  2 => 'Danish Krone',
+  3 => 'DKK',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Djibouti',
+  1 => 'DJ',
+  2 => 'Djiboutian Franc',
+  3 => 'DJF',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Dominican Republic',
+  1 => 'DO',
+  2 => 'Dominican Peso',
+  3 => 'DOP',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'East Timor',
+  1 => 'TP',
+  2 => 'Indonesian Rupiah',
+  3 => 'IDR',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Indonesia',
+  1 => 'ID',
+  2 => 'Indonesian Rupiah',
+  3 => 'IDR',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Ecuador',
+  1 => 'EC',
+  2 => 'Sucre',
+  3 => 'ECS',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Egypt',
+  1 => 'EG',
+  2 => 'Egyptian Pound',
+  3 => 'EGP',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'El Salvador',
+  1 => 'SV',
+  2 => 'Salvadoran Colon',
+  3 => 'SVC',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Eritrea',
+  1 => 'ER',
+  2 => 'Ethiopian Birr',
+  3 => 'ETB',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Ethiopia',
+  1 => 'ET',
+  2 => 'Ethiopian Birr',
+  3 => 'ETB',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Estonia',
+  1 => 'EE',
+  2 => 'Estonian Kroon',
+  3 => 'EEK',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Falkland Islands (Malvinas)',
+  1 => 'FK',
+  2 => 'Falkland Pound',
+  3 => 'FKP',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Fiji',
+  1 => 'FJ',
+  2 => 'Fijian Dollar',
+  3 => 'FJD',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'French Polynesia',
+  1 => 'PF',
+  2 => 'CFP Franc',
+  3 => 'XPF',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'New Caledonia',
+  1 => 'NC',
+  2 => 'CFP Franc',
+  3 => 'XPF',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Wallis and Futuna Islands',
+  1 => 'WF',
+  2 => 'CFP Franc',
+  3 => 'XPF',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Gambia',
+  1 => 'GM',
+  2 => 'Dalasi',
+  3 => 'GMD',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Georgia',
+  1 => 'GE',
+  2 => 'Lari',
+  3 => 'GEL',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Gibraltar',
+  1 => 'GI',
+  2 => 'Gibraltar Pound',
+  3 => 'GIP',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Guatemala',
+  1 => 'GT',
+  2 => 'Quetzal',
+  3 => 'GTQ',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Guinea',
+  1 => 'GN',
+  2 => 'Guinean Franc',
+  3 => 'GNF',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Guyana',
+  1 => 'GY',
+  2 => 'Guyanaese Dollar',
+  3 => 'GYD',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Haiti',
+  1 => 'HT',
+  2 => 'Gourde',
+  3 => 'HTG',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Honduras',
+  1 => 'HN',
+  2 => 'Lempira',
+  3 => 'HNL',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Hungary',
+  1 => 'HU',
+  2 => 'Forint',
+  3 => 'HUF',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Iceland',
+  1 => 'IS',
+  2 => 'Icelandic Krona',
+  3 => 'ISK',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Iran (Islamic Republic of)',
+  1 => 'IR',
+  2 => 'Iranian Rial',
+  3 => 'IRR',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Iraq',
+  1 => 'IQ',
+  2 => 'Iraqi Dinar',
+  3 => 'IQD',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Israel',
+  1 => 'IL',
+  2 => 'Shekel',
+  3 => 'ILS',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Jamaica',
+  1 => 'JM',
+  2 => 'Jamaican Dollar',
+  3 => 'JMD',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Jordan',
+  1 => 'JO',
+  2 => 'Jordanian Dinar',
+  3 => 'JOD',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Kazakhstan',
+  1 => 'KZ',
+  2 => 'Tenge',
+  3 => 'KZT',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Kenya',
+  1 => 'KE',
+  2 => 'Kenyan Shilling',
+  3 => 'KES',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Korea North',
+  1 => 'KP',
+  2 => 'Won',
+  3 => 'KPW',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Korea South',
+  1 => 'KR',
+  2 => 'Won',
+  3 => 'KRW',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Kuwait',
+  1 => 'KW',
+  2 => 'Kuwaiti Dinar',
+  3 => 'KWD',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Kyrgyzstan',
+  1 => 'KG',
+  2 => 'Som',
+  3 => 'KGS',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Lao PeopleÕs Democratic Republic',
+  1 => 'LA',
+  2 => 'Kip',
+  3 => 'LAK',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Latvia',
+  1 => 'LV',
+  2 => 'Lat',
+  3 => 'LVL',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Lebanon',
+  1 => 'LB',
+  2 => 'Lebanese Pound',
+  3 => 'LBP',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Lesotho',
+  1 => 'LS',
+  2 => 'Loti',
+  3 => 'LSL',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Liberia',
+  1 => 'LR',
+  2 => 'Liberian Dollar',
+  3 => 'LRD',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Libyan Arab Jamahiriya',
+  1 => 'LY',
+  2 => 'Libyan Dinar',
+  3 => 'LYD',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Liechtenstein',
+  1 => 'LI',
+  2 => 'Swiss Franc',
+  3 => 'CHF',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Switzerland',
+  1 => 'CH',
+  2 => 'Swiss Franc',
+  3 => 'CHF',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Lithuania',
+  1 => 'LT',
+  2 => 'Lita',
+  3 => 'LTL',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Macau',
+  1 => 'MO',
+  2 => 'Pataca',
+  3 => 'MOP',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Macedonia',
+  1 => 'MK',
+  2 => 'Denar',
+  3 => 'MKD',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Madagascar',
+  1 => 'MG',
+  2 => 'Malagasy Franc',
+  3 => 'MGA',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Malawi',
+  1 => 'MW',
+  2 => 'Malawian Kwacha',
+  3 => 'MWK',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Malaysia',
+  1 => 'MY',
+  2 => 'Ringgit',
+  3 => 'MYR',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Maldives',
+  1 => 'MV',
+  2 => 'Rufiyaa',
+  3 => 'MVR',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Malta',
+  1 => 'MT',
+  2 => 'Maltese Lira',
+  3 => 'MTL',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Mauritania',
+  1 => 'MR',
+  2 => 'Ouguiya',
+  3 => 'MRO',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Mauritius',
+  1 => 'MU',
+  2 => 'Mauritian Rupee',
+  3 => 'MUR',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Mexico',
+  1 => 'MX',
+  2 => 'Peso',
+  3 => 'MXN',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Moldova Republic of',
+  1 => 'MD',
+  2 => 'Leu',
+  3 => 'MDL',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Mongolia',
+  1 => 'MN',
+  2 => 'Tugrik',
+  3 => 'MNT',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Morocco',
+  1 => 'MA',
+  2 => 'Dirham',
+  3 => 'MAD',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Western Sahara',
+  1 => 'EH',
+  2 => 'Dirham',
+  3 => 'MAD',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Mozambique',
+  1 => 'MZ',
+  2 => 'Metical',
+  3 => 'MZN',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Myanmar',
+  1 => 'MM',
+  2 => 'Kyat',
+  3 => 'MMK',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Namibia',
+  1 => 'NA',
+  2 => 'Dollar',
+  3 => 'NAD',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Nepal',
+  1 => 'NP',
+  2 => 'Nepalese Rupee',
+  3 => 'NPR',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Nicaragua',
+  1 => 'NI',
+  2 => 'Cordoba Oro',
+  3 => 'NIO',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Nigeria',
+  1 => 'NG',
+  2 => 'Naira',
+  3 => 'NGN',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Oman',
+  1 => 'OM',
+  2 => 'Sul Rial',
+  3 => 'OMR',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Pakistan',
+  1 => 'PK',
+  2 => 'Rupee',
+  3 => 'PKR',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Panama',
+  1 => 'PA',
+  2 => 'Balboa',
+  3 => 'PAB',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Papua New Guinea',
+  1 => 'PG',
+  2 => 'Kina',
+  3 => 'PGK',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Paraguay',
+  1 => 'PY',
+  2 => 'Guarani',
+  3 => 'PYG',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Peru',
+  1 => 'PE',
+  2 => 'Nuevo Sol',
+  3 => 'PEN',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Philippines',
+  1 => 'PH',
+  2 => 'Peso',
+  3 => 'PHP',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Poland',
+  1 => 'PL',
+  2 => 'Zloty',
+  3 => 'PLN',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Qatar',
+  1 => 'QA',
+  2 => 'Rial',
+  3 => 'QAR',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Romania',
+  1 => 'RO',
+  2 => 'Leu',
+  3 => 'RON',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Russian Federation',
+  1 => 'RU',
+  2 => 'Ruble',
+  3 => 'RUB',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Rwanda',
+  1 => 'RW',
+  2 => 'Rwanda Franc',
+  3 => 'RWF',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Sao Tome and Principe',
+  1 => 'ST',
+  2 => 'Dobra',
+  3 => 'STD',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Saudi Arabia',
+  1 => 'SA',
+  2 => 'Riyal',
+  3 => 'SAR',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Seychelles',
+  1 => 'SC',
+  2 => 'Rupee',
+  3 => 'SCR',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Sierra Leone',
+  1 => 'SL',
+  2 => 'Leone',
+  3 => 'SLL',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Singapore',
+  1 => 'SG',
+  2 => 'Dollar',
+  3 => 'SGD',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Slovakia (Slovak Republic)',
+  1 => 'SK',
+  2 => 'Koruna',
+  3 => 'SKK',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Solomon Islands',
+  1 => 'SB',
+  2 => 'Solomon Islands Dollar',
+  3 => 'SBD',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Somalia',
+  1 => 'SO',
+  2 => 'Shilling',
+  3 => 'SOS',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'South Africa',
+  1 => 'ZA',
+  2 => 'Rand',
+  3 => 'ZAR',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Sri Lanka',
+  1 => 'LK',
+  2 => 'Rupee',
+  3 => 'LKR',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Sudan',
+  1 => 'SD',
+  2 => 'Dinar',
+  3 => 'SDG',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Suriname',
+  1 => 'SR',
+  2 => 'Surinamese Guilder',
+  3 => 'SRD',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Swaziland',
+  1 => 'SZ',
+  2 => 'Lilangeni',
+  3 => 'SZL',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Sweden',
+  1 => 'SE',
+  2 => 'Krona',
+  3 => 'SEK',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Syrian Arab Republic',
+  1 => 'SY',
+  2 => 'Syrian Pound',
+  3 => 'SYP',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Taiwan',
+  1 => 'TW',
+  2 => 'Dollar',
+  3 => 'TWD',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Tajikistan',
+  1 => 'TJ',
+  2 => 'Tajikistan Ruble',
+  3 => 'TJS',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Tanzania',
+  1 => 'TZ',
+  2 => 'Shilling',
+  3 => 'TZS',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Thailand',
+  1 => 'TH',
+  2 => 'Baht',
+  3 => 'THB',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Tonga',
+  1 => 'TO',
+  2 => 'PaÕanga',
+  3 => 'TOP',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Trinidad and Tobago',
+  1 => 'TT',
+  2 => 'Trinidad and Tobago Dollar',
+  3 => 'TTD',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Tunisia',
+  1 => 'TN',
+  2 => 'Tunisian Dinar',
+  3 => 'TND',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Turkey',
+  1 => 'TR',
+  2 => 'Lira',
+  3 => 'TRY',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Turkmenistan',
+  1 => 'TM',
+  2 => 'Manat',
+  3 => 'TMT',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Uganda',
+  1 => 'UG',
+  2 => 'Shilling',
+  3 => 'UGX',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Ukraine',
+  1 => 'UA',
+  2 => 'Hryvnia',
+  3 => 'UAH',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'United Arab Emirates',
+  1 => 'AE',
+  2 => 'Dirham',
+  3 => 'AED',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Uruguay',
+  1 => 'UY',
+  2 => 'Peso',
+  3 => 'UYU',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Uzbekistan',
+  1 => 'UZ',
+  2 => 'Som',
+  3 => 'UZS',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Vanuatu',
+  1 => 'VU',
+  2 => 'Vatu',
+  3 => 'VUV',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Venezuela',
+  1 => 'VE',
+  2 => 'Bolivar',
+  3 => 'VEF',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Vietnam',
+  1 => 'VN',
+  2 => 'Dong',
+  3 => 'VND',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Yemen',
+  1 => 'YE',
+  2 => 'Rial',
+  3 => 'YER',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Zambia',
+  1 => 'ZM',
+  2 => 'Kwacha',
+  3 => 'ZMK',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Zimbabwe',
+  1 => 'ZW',
+  2 => 'Zimbabwe Dollar',
+  3 => 'ZWD',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Aland Islands',
+  1 => 'AX',
+  2 => 'Euro',
+  3 => 'EUR',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Angola',
+  1 => 'AO',
+  2 => 'Angolan kwanza',
+  3 => 'AOA',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Antarctica',
+  1 => 'AQ',
+  2 => 'Antarctican dollar',
+  3 => 'AQD',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Bosnia and Herzegovina',
+  1 => 'BA',
+  2 => 'Bosnia and Herzegovina convertible mark',
+  3 => 'BAM',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Congo (Kinshasa)',
+  1 => 'CD',
+  2 => 'Congolese Frank',
+  3 => 'CDF',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Ghana',
+  1 => 'GH',
+  2 => 'Ghana cedi',
+  3 => 'GHS',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Guernsey',
+  1 => 'GG',
+  2 => 'Guernsey pound',
+  3 => 'GGP',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Isle of Man',
+  1 => 'IM',
+  2 => 'Manx pound',
+  3 => 'GBP',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Laos',
+  1 => 'LA',
+  2 => 'Lao kip',
+  3 => 'LAK',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Macao S.A.R.',
+  1 => 'MO',
+  2 => 'Macanese pataca',
+  3 => 'MOP',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Montenegro',
+  1 => 'ME',
+  2 => 'Euro',
+  3 => 'EUR',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Palestinian Territory',
+  1 => 'PS',
+  2 => 'Jordanian dinar',
+  3 => 'JOD',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Saint Barthelemy',
+  1 => 'BL',
+  2 => 'Euro',
+  3 => 'EUR',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Saint Helena',
+  1 => 'SH',
+  2 => 'Saint Helena pound',
+  3 => 'GBP',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Saint Martin (French part)',
+  1 => 'MF',
+  2 => 'Netherlands Antillean guilder',
+  3 => 'ANG',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Saint Pierre and Miquelon',
+  1 => 'PM',
+  2 => 'Euro',
+  3 => 'EUR',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'Serbia',
+  1 => 'RS',
+  2 => 'Serbian dinar',
+  3 => 'RSD',
+)  
+[2024-01-10 14:17:10] local.INFO: array (
+  0 => 'US Armed Forces',
+  1 => 'USAF',
+  2 => 'US Dollar',
+  3 => 'USD',
+)  
